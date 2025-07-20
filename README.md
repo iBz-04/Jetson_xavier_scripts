@@ -1,8 +1,3 @@
-#Install Scripts
-
-- Download and install cuda + opencv and pytorch for Jetson Xavier 
-- Jetpack 5.x required
-
 # Jetson_xavier_scripts
 
 This repository contains installation scripts for OpenCV, CUDA, and PyTorch on Jetson Xavier devices.
